@@ -12091,23 +12091,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Georgios\\.nuget\\packages\\": {},
+    "C:\\Users\\George\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Georgios\\Desktop\\Web-API\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\George\\source\\repos\\TodoApi\\TodoApi\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\Users\\Georgios\\Desktop\\Web-API\\TodoApi\\TodoApi.csproj",
-      "packagesPath": "C:\\Users\\Georgios\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Georgios\\Desktop\\Web-API\\TodoApi\\obj\\",
+      "projectPath": "C:\\Users\\George\\source\\repos\\TodoApi\\TodoApi\\TodoApi.csproj",
+      "packagesPath": "C:\\Users\\George\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\George\\source\\repos\\TodoApi\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Georgios\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\George\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
